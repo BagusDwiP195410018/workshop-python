@@ -1,0 +1,2 @@
+# workshop-python
+Anda seorang pengembang perangkat lunak profesional, Anda mungkin harus bekerja dengan beberapa pustaka C/C++/Java tetapi menemukan siklus tulis/kompilasi/uji/kompilasi ulang yang biasa terlalu lambat. Mungkin Anda sedang menulis rangkaian pengujian untuk pustaka semacam itu dan merasa menulis kode pengujian merupakan tugas yang membosankan. Atau mungkin Anda telah menulis program yang dapat menggunakan bahasa ekstensi, dan Anda tidak ingin merancang dan mengimplementasikan bahasa yang sama sekali baru untuk aplikasi Anda
