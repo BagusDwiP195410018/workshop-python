@@ -1,3 +1,2 @@
 # workshop-python
-## klik https://github.com/BagusDwiP195410018/workshop-python/commits?author=BagusDwiP195410018
-pertemuan 4
+## banyak pekerjaan di komputer, pada akhirnya Anda menemukan bahwa ada beberapa tugas yang ingin Anda otomatisasi.
